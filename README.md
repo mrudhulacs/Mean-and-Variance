@@ -4,7 +4,6 @@
 Developed by    : CHITTOOR SARAVANA MRUDHULA 
 Register number : 212224040056
 Department      : B.E.(CSE)
-
 ```
 # Aim : 
 
@@ -84,8 +83,8 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 # Output : 
 
+![image](https://github.com/user-attachments/assets/feb320fb-fa84-45b4-ae91-70bd0e89a022)
 
-![image](https://github.com/user-attachments/assets/04bb5384-552d-40ad-aca5-14dbfd3eee3d)
 
 
 # Results :
