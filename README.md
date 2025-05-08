@@ -1,10 +1,12 @@
+Developed by    : CHITTOOR SARAVANA MRUDHULA 
+
+
+
+Register number : 212224040056
+
+
 #  Mean and variance of a discrete  distribution
 
-```
-Developed by    : CHITTOOR SARAVANA MRUDHULA 
-Register number : 212224040056
-Department      : B.E.(CSE)
-```
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
